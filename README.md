@@ -5,12 +5,12 @@ PythonとLOUDSによるTRIE木の実装
 nltk==3.4
 
 # プログラム
-trie.py：TRIE木
-constructor.py：ビット配列
-words.py：辞書データの作成・読み込み
-measure.py：メモリと検索時間の測定
-search_word.py：単語検索
-test.py：検索時間の測定
+ - trie.py：TRIE木
+ - constructor.py：ビット配列
+ - words.py：辞書データの作成・読み込み
+ - measure.py：メモリと検索時間の測定
+ - search_word.py：単語検索
+ - test.py：検索時間の測定
 
 # 実行手順
 
